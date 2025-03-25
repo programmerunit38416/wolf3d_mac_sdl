@@ -15,7 +15,7 @@ There are some issues remaining:
 Putting this here in case anyone wants a working version for lower specced systems that uses the BSP renderer.
 
 ## Screenshot
-![](screenshot.jpg)
+![](screenshot.png)
 
 ## Instructions
 Use make to build:
